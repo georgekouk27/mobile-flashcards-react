@@ -86,12 +86,3 @@ export async function addCardToDeckAS(title, card) {
     console.log(err);
   }
 }
-
-export async function resetDecks() {
-  try {
-    await AsyncStorage.setItem(DECKS_STORAGE_KEY, JSON.stringify(decks))
-  } 
-  catch (err) {
-    console.log(err);
-  }
-}
