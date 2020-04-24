@@ -15,6 +15,7 @@ To get started developing right away:
 * git clone https://github.com/georgekouk27/mobile-flashcards-react.git
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
+* Install [Expo](https://expo.io/) to your device and start testing the app.
 
 (`npm` can be replaced with `yarn`)
 
