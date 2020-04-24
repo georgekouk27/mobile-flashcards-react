@@ -36,19 +36,19 @@ This app was tested on Android emulator and device.
 
 ## Screens
 
-<img src="/screens/screen1.PNG" width="500">
+<img src="/screens/screen1.png" width="500">
 
-<img src="/screens/screen2.PNG" width="500">
+<img src="/screens/screen2.png" width="500">
 
-<img src="/screens/screen3.PNG" width="500">
+<img src="/screens/screen3.png" width="500">
 
-<img src="/screens/screen4.PNG" width="500">
+<img src="/screens/screen4.png" width="500">
 
-<img src="/screens/screen5.PNG" width="500">
+<img src="/screens/screen5.png" width="500">
 
-<img src="/screens/screen6.PNG" width="500">
+<img src="/screens/screen6.png" width="500">
 
-<img src="/screens/screen7.PNG" width="500">
+<img src="/screens/screen7.png" width="500">
 
 
 
